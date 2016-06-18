@@ -5,4 +5,4 @@ Over at https://github.com/meetecho/janus-gateway they've created an excellent W
 
 By making a django app it should be easy to embed Janus features such as clientless video conferencing into your web applications. 
 
-MOre information shortly.
+More information shortly.
